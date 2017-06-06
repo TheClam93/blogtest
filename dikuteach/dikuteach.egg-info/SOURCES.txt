@@ -1,0 +1,13 @@
+MANIFEST.in
+dikuteach/__init__.py
+dikuteach/dikuteach.py
+dikuteach/schema.sql
+dikuteach.egg-info/PKG-INFO
+dikuteach.egg-info/SOURCES.txt
+dikuteach.egg-info/dependency_links.txt
+dikuteach.egg-info/requires.txt
+dikuteach.egg-info/top_level.txt
+dikuteach/static/style.css
+dikuteach/templates/layout.html
+dikuteach/templates/login.html
+dikuteach/templates/show_users.html

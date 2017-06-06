@@ -1,0 +1,1 @@
+from .dikuteach import app

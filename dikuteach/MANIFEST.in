@@ -1,0 +1,3 @@
+graft dikuteach/templates
+graft dikuteach/static
+include dikuteach/schema.sql
